@@ -638,7 +638,7 @@ section {
 }
 
 .project-dark .project-tech span {
-    color: #d8cbc0;
+    color: var(--latte);
 
     border-color: rgba(255,255,255,.18);
 }
