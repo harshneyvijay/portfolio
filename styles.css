@@ -1,5 +1,3 @@
-/* COFFEE EDITORIAL PORTFOLIO */
-
 :root {
     --cream: #f4eee4;
     --paper: #fbf7ef;
@@ -106,7 +104,7 @@ img {
     padding: 11px 16px;
 
     border: 1px solid var(--line);
-    border-radius: 100px;
+    border-radius: 5px;
 
     background: rgba(251,247,239,.84);
 
@@ -634,7 +632,7 @@ section {
 }
 
 .project-dark .project-link {
-    color: var(--latte);
+    color: #c6b9ad;
 
     border-bottom-color: var(--latte);
 }
